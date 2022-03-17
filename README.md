@@ -9,7 +9,7 @@ Um guia com tópicos sobre o que estudar sobre arquitetura de *microservices* e 
 5. [PLUS](#5---plus)
 
 
-## 1 - MICROSERVICES
+### 1 - MICROSERVICES
 
 Base necessária e conceitos sólidos sobre *microservices*, como modelos de comunicações entre *microservices*, comunicações síncronas e assíncronas, uso de mensageria e eventos, base de dados distribuídas por *microservices* ou compartilhada, sincronia e consistência eventual com dados distribuídos, criação de identificadores universais para dados replicado.
 
