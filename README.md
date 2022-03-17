@@ -2,11 +2,11 @@
 
 Um guia com tópicos sobre o que estudar sobre arquitetura de *microservices* e os projetos do ecossistema *Spring Framework*.
 
-1. [MICROSERVICES](#1-microservices)
-2. [PATTERNS](#2-patterns)
-3. [ARQUITETURA](#3-arquitetura)
-4. [SPRING](#4-spring)
-5. [PLUS](#5-plus)
+1. [MICROSERVICES](#1---microservices)
+2. [PATTERNS](#2---patterns)
+3. [ARQUITETURA](#3---arquitetura)
+4. [SPRING](#4---spring)
+5. [PLUS](#5---plus)
 
 
 ## 1 - MICROSERVICES
